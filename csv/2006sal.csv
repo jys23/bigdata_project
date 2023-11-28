@@ -1,0 +1,524 @@
+PLAYER,TEAM,AGE,DATE OF BIRTH,COUNTRY,WEIGHT,HEIGHT,POS,HANDED,CLAUSE,CAP HIT
+1. Jaromír Jágr,-,34,"Feb. 15, 1972",Czech Republic,104,191,RW,Left,,"$7,920,000"
+2. Brad Richards,-,26,"May 2, 1980",Canada,90,183,"C, LW",Left,,"$7,800,000"
+3. Nicklas Lidström,-,36,"Apr. 28, 1970",Sweden,87,185,D,Left,NMC,"$7,600,000"
+4. Zdeno Chara,-,29,"Mar. 18, 1977",Slovakia,113,206,LD,Left,NTC,"$7,500,000"
+5. Alexei Yashin,-,32,"Nov. 5, 1973",Russia,99,191,C,Right,,"$7,415,100"
+6. Jarome Iginla,-,29,"Jul. 1, 1977",Canada,95,185,RW,Right,,"$7,000,000"
+7. Vincent Lecavalier,-,26,"Apr. 21, 1980",Canada,98,193,"C, LW",Left,,"$6,875,000"
+8. Nikolai Khabibulin,-,33,"Jan. 13, 1973",Russia,96,185,G,Left,,"$6,750,000"
+9. Scott Niedermayer,-,33,"Aug. 31, 1973",Canada,88,185,D,Left,,"$6,750,000"
+10. Roberto Luongo,-,27,"Apr. 4, 1979",Canada,98,191,G,Left,,"$6,750,000"
+11. Joe Thornton,-,27,"Jul. 2, 1979",Canada,100,193,"C, LW",Left,,"$6,666,666"
+12. Mats Sundin,-,35,"Feb. 13, 1971",Sweden,105,196,C,Right,,"$6,530,000"
+13. Wade Redden,-,29,"Jun. 12, 1977",Canada,93,188,D,Left,,"$6,500,000"
+14. Ed Jovanovski,-,30,"Jun. 26, 1976",Canada,95,185,LD,Left,NTC,"$6,500,000"
+15. Ilya Kovalchuk,-,23,"Apr. 15, 1983",Russia,101,191,"LW, RW",Right,,"$6,400,000"
+16. Marián Gáborík,-,24,"Feb. 14, 1982",Slovakia,93,185,RW,Left,,"$6,333,333"
+17. Chris Pronger,-,31,"Oct. 10, 1974",Canada,100,198,D,Left,,"$6,250,000"
+18. Patrik Elias,-,30,"Apr. 13, 1976",Czech Republic,88,185,"C, LW",Left,NMC,"$6,000,000"
+19. Martin Havlat,-,25,"Apr. 19, 1981",Czech Republic,95,188,LW,Left,,"$6,000,000"
+20. Marián Hossa,-,27,"Jan. 12, 1979",Slovakia,94,185,RW,Left,,"$6,000,000"
+21. Bryan McCabe,-,31,"Jun. 8, 1975",Canada,100,188,D,Left,,"$5,750,000"
+22. Peter Forsberg,-,33,"Jul. 20, 1973",Sweden,93,183,C,Left,,"$5,750,000"
+23. Joe Sakic,-,37,"Jul. 7, 1969",Canada,88,180,C,Left,,"$5,750,000"
+24. Rick Nash,-,22,"Jun. 16, 1984",Canada,96,193,"LW, RW",Left,,"$5,400,000"
+25. Todd Bertuzzi,-,31,"Feb. 2, 1975",Canada,104,191,RW,Left,,"$5,269,080"
+26. Simon Gagne,-,26,"Feb. 29, 1980",Canada,88,185,RW,Left,NMC,"$5,250,000"
+27. Alex Tanguay,-,26,"Nov. 21, 1979",Canada,86,183,"LW, RW",Left,,"$5,250,000"
+28. Martin St. Louis,-,31,"Jun. 18, 1975",Canada,82,173,RW,Left,NTC,"$5,250,000"
+29. Olli Jokinen,-,27,"Dec. 5, 1978",Finland,95,188,C,Left,,"$5,250,000"
+30. Sergei Fedorov,-,36,"Dec. 13, 1969",Russia,94,188,C,Left,,"$5,248,000"
+31. Martin Brodeur,-,34,"May 6, 1972",Canada,100,188,G,Left,NTC,"$5,200,000"
+32. Pavel Kubina,-,29,"Apr. 15, 1977",Czech Republic,110,193,D,Right,M-NTC,"$5,000,000"
+33. Marc Savard,-,29,"Jul. 17, 1977",Canada,87,178,C,Left,NTC,"$5,000,000"
+34. Scott Gomez,-,26,"Dec. 23, 1979",United States,90,180,C,Left,,"$5,000,000"
+35. Sergei Gonchar,-,32,"Apr. 13, 1974",Russia,95,188,LD,Left,NTC,"$5,000,000"
+36. Daniel Brière,-,28,"Oct. 6, 1977",Canada,79,175,C,Right,,"$5,000,000"
+37. Daniel Alfredsson,-,33,"Dec. 11, 1972",Sweden,92,183,RW,Right,,"$4,873,876"
+38. Patrice Bergeron,-,21,"Jul. 24, 1985",Canada,88,185,C,Right,,"$4,750,000"
+39. Adam Foote,-,35,"Jul. 10, 1971",Canada,103,188,RD,Right,,"$4,600,000"
+40. Alexei Kovalev,-,33,"Feb. 24, 1973",Russia,101,188,RW,Left,,"$4,500,000"
+41. Jason Arnott,-,31,"Oct. 11, 1974",Canada,100,196,C,Right,NMC,"$4,500,000"
+42. Eric Staal,-,21,"Oct. 29, 1984",Canada,93,193,C,Left,,"$4,500,000"
+43. Dany Heatley,-,25,"Jan. 21, 1981",Germany,96,191,LW,Left,,"$4,500,000"
+44. Jason Spezza,-,23,"Jun. 13, 1983",Canada,98,191,"C, RW",Right,,"$4,500,000"
+45. Rick DiPietro,-,25,"Sep. 19, 1981",United States,84,183,G,Right,,"$4,500,000"
+46. Manny Fernandez,-,32,"Aug. 27, 1974",Canada,94,183,G,Left,,"$4,333,333"
+47. Tomas Kaberle,-,28,"Mar. 2, 1978",Czech Republic,96,185,D,Left,NTC,"$4,250,000"
+48. Patrick Marleau,-,27,"Sep. 15, 1979",Canada,98,188,"LW, C",Left,,"$4,166,667"
+49. Glen Murray,-,33,"Nov. 1, 1972",Canada,99,191,RW,Right,,"$4,150,000"
+50. Ales Hemsky,-,23,"Aug. 13, 1983",Czech Republic,84,183,RW,Right,,"$4,100,000"
+51. Jay McKee,-,29,"Sep. 8, 1977",Canada,96,193,LD,Left,,"$4,000,000"
+52. Erik Cole,-,27,"Nov. 6, 1978",United States,93,188,LW,Left,,"$4,000,000"
+53. Brian Gionta,-,27,"Jan. 18, 1979",United States,81,170,RW,Right,,"$4,000,000"
+54. Derek Morris,-,28,"Aug. 24, 1978",Canada,95,183,D,Right,,"$3,916,667"
+55. Pavel Datsyuk,-,28,"Jul. 20, 1978",Russia,88,180,"C, LW",Left,,"$3,900,000"
+56. Teemu Selanne,-,36,"Jul. 3, 1970",Finland,95,183,RW,Right,,"$3,750,000"
+57. Martin Gerber,-,32,"Sep. 3, 1974",Switzerland,93,180,G,Left,,"$3,700,000"
+58. Rod Brind'Amour,-,36,"Aug. 9, 1970",Canada,93,185,C,Left,,"$3,600,000"
+59. Shawn Horcoff,-,28,"Sep. 17, 1978",Canada,95,185,C,Left,,"$3,600,000"
+60. Daniel Sedin,-,26,"Sep. 26, 1980",Sweden,86,185,LW,Left,,"$3,575,000"
+61. Henrik Sedin,-,26,"Sep. 26, 1980",Sweden,83,188,C,Left,,"$3,575,000"
+62. Alexei Zhitnik,-,33,"Oct. 10, 1972",Ukraine,92,178,LD,Left,,"$3,503,750"
+63. Ryan Smyth,-,30,"Feb. 21, 1976",Canada,87,188,LW,Left,,"$3,500,000"
+64. Willie Mitchell,-,29,"Apr. 23, 1977",Canada,95,191,LD,Left,NTC,"$3,500,000"
+65. Justin Williams,-,24,"Oct. 4, 1981",Canada,83,185,RW,Right,,"$3,500,000"
+66. Mattias Ohlund,-,30,"Sep. 9, 1976",Sweden,106,193,LD,Left,,"$3,500,000"
+67. Mike Modano,-,36,"Jun. 7, 1970",United States,96,191,C,Left,NTC,"$3,450,000"
+68. Marek Zidlicky,-,29,"Feb. 3, 1977",Czech Republic,86,180,RD,Right,,"$3,350,000"
+69. Andy McDonald,-,29,"Aug. 25, 1977",Canada,85,178,C,Left,,"$3,333,333"
+70. Jaroslav Spacek,-,32,"Feb. 11, 1974",Czech Republic,92,180,D,Left,,"$3,333,333"
+71. Dan Boyle,-,30,"Jul. 12, 1976",Canada,86,180,LD,Right,,"$3,333,333"
+72. Steve Sullivan,-,32,"Jul. 6, 1974",Canada,70,173,LW,Right,,"$3,200,000"
+73. Ruslan Salei,-,Deceased (36),"Nov. 2, 1974",Belarus,93,188,D,Left,,"$3,025,000"
+74. Colin White,-,28,"Dec. 12, 1977",Canada,100,193,LD,Left,,"$3,000,000"
+75. Jonathan Cheechoo,-,26,"Jul. 15, 1980",Canada,90,183,RW,Right,,"$3,000,000"
+76. Filip Kuba,-,29,"Dec. 29, 1976",Czech Republic,104,193,D,Left,,"$3,000,000"
+77. Nick Boynton,-,27,"Jan. 14, 1979",Canada,99,188,RD,Right,,"$2,950,000"
+78. John Madden,-,33,"May 4, 1973",Canada,86,180,C,Left,,"$2,938,500"
+79. Mike Van Ryn,-,27,"May 14, 1979",Canada,90,185,D,Right,,"$2,900,000"
+80. Alexander Frolov,-,24,"Jun. 19, 1982",Russia,93,188,LW,Right,,"$2,900,000"
+81. Tim Connolly,-,25,"May 7, 1981",United States,87,185,C,Right,,"$2,900,000"
+82. Toni Lydman,-,29,"Sep. 25, 1977",Finland,97,188,D,Left,,"$2,875,000"
+83. Matt Cullen,-,29,"Nov. 2, 1976",United States,92,185,"C, LW",Left,,"$2,875,000"
+84. Marc Denis,-,29,"Aug. 1, 1977",Canada,87,185,G,Left,,"$2,866,667"
+85. Jamie Langenbrunner,-,31,"Jul. 24, 1975",United States,93,185,RW,Right,,"$2,800,000"
+86. Brendan Witt,-,31,"Feb. 20, 1975",Canada,101,188,LD,Left,,"$2,766,667"
+87. Sandis Ozolinsh,-,34,"Aug. 3, 1972",Latvia,97,191,D,Left,,"$2,750,000"
+88. Niclas Hävelid,-,33,"Apr. 12, 1973",Sweden,91,183,LD,Left,,"$2,700,000"
+89. Ryan Miller,-,26,"Jul. 17, 1980",United States,77,188,G,Left,,"$2,666,667"
+90. Mark Parrish,-,29,"Feb. 2, 1977",United States,88,180,RW,Right,,"$2,650,000"
+91. Henrik Zetterberg,-,25,"Oct. 9, 1980",Sweden,88,183,C,Left,,"$2,650,000"
+92. Joe Corvo,-,29,"Jun. 20, 1977",United States,95,185,D,Right,,"$2,625,000"
+93. Dan Cloutier,-,30,"Apr. 22, 1976",Canada,84,185,G,Left,,"$2,500,000"
+94. Nikolai Zherdev,-,21,"Nov. 5, 1984",Ukraine,99,185,LW,Right,,"$2,500,000"
+95. Brian Pothier,-,29,"Apr. 15, 1977",United States,91,185,D,Right,,"$2,500,000"
+96. Andrei Markov,-,27,"Dec. 20, 1978",Russia,91,183,LD,Left,,"$2,500,000"
+97. Karlis Skrastins,-,Deceased (37),"Jul. 9, 1974",Latvia,93,188,D,Left,,"$2,400,000"
+98. Bill Guerin,-,35,"Nov. 9, 1970",United States,100,188,RW,Right,,"$2,400,000"
+99. Chris Drury,-,30,"Aug. 20, 1976",United States,86,178,C,Right,,"$2,382,500"
+100. Ales Kotalik,-,27,"Dec. 23, 1978",Czech Republic,103,185,RW,Right,,"$2,333,333"
+101. Sheldon Souray,-,30,"Jul. 13, 1976",Canada,105,193,D,Left,,"$2,318,000"
+102. Joffrey Lupul,-,23,"Sep. 23, 1983",Canada,93,185,"LW, RW",Right,,"$2,311,667"
+103. Christian Backman,-,26,"Apr. 28, 1980",Sweden,95,193,LD,Left,,"$2,300,000"
+104. Jean-Pierre Dumont,-,28,"Apr. 1, 1978",Canada,99,183,RW,Left,,"$2,250,000"
+105. Frantisek Kaberle,-,32,"Nov. 8, 1973",Czech Republic,86,185,D,Left,,"$2,200,000"
+106. Michael Ryder,-,26,"Mar. 31, 1980",Canada,91,183,RW,Right,,"$2,200,000"
+107. Jarret Stoll,-,24,"Jun. 24, 1982",Canada,97,185,C,Right,,"$2,200,000"
+108. Jay Bouwmeester,-,23,"Sep. 27, 1983",Canada,93,193,LD,Left,,"$2,175,000"
+109. Brad Stuart,-,26,"Nov. 6, 1979",Canada,95,188,RD,Left,,"$2,150,000"
+110. Michal Handzus,-,29,"Mar. 11, 1977",Slovakia,98,196,C,Left,,"$2,128,000"
+111. Shane Doan,-,29,"Oct. 10, 1976",Canada,101,185,"RW, LW",Right,,"$2,128,000"
+112. Dave Scatchard,-,30,"Feb. 20, 1976",Canada,101,191,C,Right,,"$2,100,000"
+113. Peter Schaefer,-,29,"Jul. 12, 1977",Canada,88,180,LW,Left,,"$2,100,000"
+114. Denis Gauthier,-,30,"Oct. 1, 1976",Canada,102,188,D,Left,,"$2,100,000"
+115. Michal Rozsíval,-,28,"Sep. 3, 1978",Czech Republic,95,185,RD,Right,,"$2,100,000"
+116. Hal Gill,-,31,"Apr. 6, 1975",United States,113,201,D,Left,,"$2,075,000"
+117. Brenden Morrow,-,27,"Jan. 16, 1979",Canada,96,180,LW,Left,,"$2,050,000"
+118. Michael Nylander,-,33,"Oct. 3, 1972",Sweden,91,185,C,Left,,"$2,026,667"
+119. Eric Brewer,-,27,"Apr. 17, 1979",Canada,98,193,D,Left,,"$2,014,000"
+120. Alyn McCauley,-,29,"May 29, 1977",Canada,89,183,"C, LW",Left,,"$2,000,000"
+121. Andrew Raycroft,-,26,"May 4, 1980",Canada,84,183,G,Left,,"$2,000,000"
+122. Jeff Halpern,-,30,"May 3, 1976",United States,92,183,C,Right,,"$2,000,000"
+123. Steven Reinprecht,-,30,"May 7, 1976",Canada,88,183,C,Left,,"$2,000,000"
+124. Joni Pitkanen,-,23,"Sep. 19, 1983",Finland,95,191,LD,Left,,"$2,000,000"
+125. Paul Martin,-,25,"Mar. 5, 1981",United States,91,185,LD,Left,,"$2,000,000"
+126. Dan Hamhuis,-,23,"Dec. 13, 1982",Canada,93,185,LD,Left,,"$2,000,000"
+127. Jason Smith,-,32,"Nov. 2, 1973",Canada,95,191,RD,Right,,"$1,976,000"
+128. Jassen Cullimore,-,33,"Dec. 4, 1972",Canada,108,196,LD,Left,,"$1,900,000"
+129. Ryan Kesler,-,22,"Aug. 31, 1984",United States,93,188,"C, RW",Right,,"$1,900,000"
+130. Mike Ribeiro,-,26,"Feb. 10, 1980",Canada,81,183,C,Left,,"$1,900,000"
+131. Francis Bouillon,-,30,"Oct. 17, 1975",United States,88,173,LD,Left,,"$1,875,000"
+132. Tuomo Ruutu,-,23,"Feb. 16, 1983",Finland,96,183,"LW, RW",Left,,"$1,875,000"
+133. David Legwand,-,26,"Aug. 17, 1980",United States,93,188,"C, LW",Left,,"$1,875,000"
+134. Dainius Zubrus,-,28,"Jun. 16, 1978",Lithuania,102,196,LW,Left,,"$1,850,000"
+135. Kari Lehtonen,-,22,"Nov. 16, 1983",Finland,86,193,G,Left,,"$1,850,000"
+136. Craig Conroy,-,35,"Sep. 4, 1971",United States,88,188,C,Right,,"$1,795,500"
+137. Scott Hartnell,-,24,"Apr. 18, 1982",Canada,98,188,LW,Left,,"$1,750,000"
+138. Niclas Wallin,-,31,"Feb. 20, 1975",Sweden,100,191,D,Left,NTC,"$1,725,000"
+139. Mike Cammalleri,-,24,"Jun. 8, 1982",Canada,84,175,"LW, C",Left,,"$1,700,000"
+140. Kimmo Timonen,-,31,"Mar. 18, 1975",Finland,88,178,D,Left,,"$1,687,500"
+141. Martin Erat,-,25,"Aug. 29, 1981",Czech Republic,89,183,RW,Left,,"$1,675,000"
+142. Jozef Stumpel,-,34,"Jul. 20, 1972",Slovakia,99,191,C,Right,,"$1,625,000"
+143. Jason Williams,-,26,"Aug. 11, 1980",Canada,87,180,RW,Right,,"$1,600,000"
+144. Rostislav Klesla,-,24,"Mar. 21, 1982",Czech Republic,91,191,D,Left,,"$1,600,000"
+145. Eric Lindros,-,33,"Feb. 28, 1973",Canada,109,193,C,Right,,"$1,550,000"
+146. Tomas Vokoun,-,30,"Jul. 2, 1976",Czech Republic,95,185,G,Right,,"$1,520,000"
+147. Matt Cooke,-,28,"Sep. 7, 1978",Canada,98,180,LW,Left,,"$1,508,333"
+148. Sami Salo,-,32,"Sep. 2, 1974",Finland,98,191,D,Right,,"$1,500,000"
+149. Mike Fisher,-,26,"Jun. 5, 1980",Canada,98,185,C,Right,,"$1,500,000"
+150. Brian Campbell,-,27,"May 23, 1979",Canada,87,178,LD,Left,,"$1,500,000"
+151. Brad Boyes,-,24,"Apr. 17, 1982",Canada,88,183,"RW, C",Right,,"$1,500,000"
+152. Duncan Keith,-,23,"Jul. 16, 1983",Canada,87,185,LD,Left,,"$1,475,000"
+153. Scott Hannan,-,27,"Jan. 23, 1979",Canada,102,185,D,Left,,"$1,437,667"
+154. Bryce Salvador,-,30,"Feb. 11, 1976",Canada,98,191,D,Left,,"$1,400,000"
+155. Robyn Regehr,-,26,"Apr. 19, 1980",Brazil,101,191,D,Left,,"$1,374,800"
+156. Lubomir Visnovsky,-,30,"Aug. 11, 1976",Slovakia,87,178,RD,Left,,"$1,368,000"
+157. John-Michael Liles,-,25,"Nov. 25, 1980",United States,84,178,LD,Left,,"$1,325,000"
+158. Alexander Semin,-,22,"Mar. 3, 1984",Russia,95,188,"RW, LW",Right,,"$1,300,000"
+159. Anton Volchenkov,-,24,"Feb. 25, 1982",Russia,102,188,D,Left,,"$1,300,000"
+160. Marc-André Fleury,MIN,21,"Nov. 28, 1984",Canada,84,188,G,Left,,"$1,294,750"
+161. Mike Commodore,-,26,"Nov. 7, 1979",Canada,103,193,D,Right,,"$1,250,000"
+162. Zbynek Michalek,-,23,"Dec. 23, 1982",Czech Republic,95,188,RD,Right,,"$1,250,000"
+163. Radim Vrbata,-,25,"Jun. 13, 1981",Czech Republic,88,185,RW,Right,,"$1,225,000"
+164. Shawn Bates,-,31,"Apr. 3, 1975",United States,95,183,"C, LW",Right,,"$1,200,000"
+165. Mikael Samuelsson,-,29,"Dec. 23, 1976",Sweden,99,188,RW,Right,,"$1,200,000"
+166. Manny Malhotra,-,26,"May 18, 1980",Canada,94,188,C,Left,,"$1,200,000"
+167. Ilya Bryzgalov,-,26,"Jun. 22, 1980",Russia,97,191,G,Left,,"$1,181,250"
+168. Tim Gleason,-,23,"Jan. 29, 1983",United States,98,183,D,Left,,"$1,175,000"
+169. Dustin Brown,-,21,"Nov. 4, 1984",United States,95,183,"RW, LW",Right,,"$1,175,000"
+170. R.J. Umberger,-,24,"May 3, 1982",United States,97,188,C,Left,,"$1,150,000"
+171. Marc Chouinard,-,29,"May 6, 1977",Canada,100,193,C,Right,,"$1,100,000"
+172. Dallas Drake,-,37,"Feb. 4, 1969",Canada,84,183,LW,Left,,"$1,100,000"
+173. Tim Thomas,-,32,"Apr. 15, 1974",United States,91,180,G,Left,,"$1,100,000"
+174. Nathan Horton,-,21,"May 29, 1985",Canada,104,188,RW,Right,,"$1,100,000"
+175. Chris Neil,-,27,"Jun. 18, 1979",Canada,98,185,RW,Right,,"$1,100,000"
+176. Steve Begin,-,28,"Jun. 14, 1978",Canada,87,183,C,Left,,"$1,057,000"
+177. Chris Kunitz,-,27,"Sep. 26, 1979",Canada,85,183,"RW, LW",Left,,"$1,056,250"
+178. Brooks Orpik,-,26,"Sep. 26, 1980",United States,98,191,LD,Left,,"$1,037,500"
+179. Jason Pominville,-,23,"Nov. 30, 1982",Canada,82,180,RW,Right,,"$1,033,333"
+180. Johan Hedberg,-,33,"May 5, 1973",Sweden,86,183,G,Left,,"$1,000,000"
+181. Andreas Lilja,-,31,"Jul. 13, 1975",Sweden,101,191,LD,Left,,"$1,000,000"
+182. Matt Pettinger,-,25,"Oct. 22, 1980",Canada,93,185,LW,Left,,"$1,000,000"
+183. Antoine Vermette,-,24,"Jul. 20, 1982",Canada,90,185,"C, LW",Left,,"$1,000,000"
+184. Niklas Kronwall,-,25,"Jan. 12, 1981",Sweden,88,183,LD,Left,,"$990,000"
+185. Fedor Tyutin,-,23,"Jul. 19, 1983",Russia,100,188,LD,Left,,"$987,500"
+186. Marek Schwarz,-,20,"Apr. 1, 1986",Czech Republic,82,183,G,Right,,"$984,200"
+187. Kris Chucko,-,20,"Mar. 13, 1986",Canada,86,188,LW,Right,,"$984,200"
+188. Travis Zajac,-,21,"May 13, 1985",Canada,84,188,C,Right,,"$984,200"
+189. Andrej Meszaros,-,20,"Oct. 13, 1985",Slovakia,101,188,RD,Left,,"$984,200"
+190. Lauri Korpikoski,-,20,"Jul. 28, 1986",Finland,88,185,"LW, RW",Left,,"$984,200"
+191. Alex Ovechkin,WSH,21,"Sep. 17, 1985",Russia,107,191,LW,Right,,"$984,200"
+192. Evgeni Malkin,PIT,20,"Jul. 31, 1986",Russia,88,191,C,Left,,"$984,200"
+193. Drew Stafford,-,20,"Oct. 30, 1985",United States,98,188,"RW, LW",Right,,"$984,200"
+194. Andrew Ladd,-,20,"Dec. 12, 1985",Canada,87,191,LW,Left,,"$984,200"
+195. Wojtek Wolski,-,20,"Feb. 24, 1986",Poland,97,188,RW,Left,,"$942,800"
+196. Kyle Chipchura,-,20,"Feb. 19, 1986",Canada,92,188,"C, RW",Left,,"$942,800"
+197. Brent Seabrook,TBL,21,"Apr. 20, 1985",Canada,100,191,RD,Right,,"$942,400"
+198. Thomas Vanek,-,22,"Jan. 19, 1984",Austria,97,188,"LW, RW",Right,,"$942,400"
+199. Mike Richards,-,21,"Feb. 11, 1985",Canada,89,180,C,Left,,"$942,400"
+200. Jeff Carter,PIT,21,"Jan. 1, 1985",Canada,99,191,"C, RW",Right,,"$942,400"
+201. Matthew Carle,-,22,"Sep. 25, 1984",United States,89,183,LD,Left,,"$942,400"
+202. Mark Stuart,-,22,"Apr. 27, 1984",United States,98,188,LD,Left,,"$942,400"
+203. Patrick Eaves,-,22,"May 1, 1984",Canada,92,180,"RW, LW",Right,,"$942,133"
+204. Johan Franzen,-,26,"Dec. 23, 1979",Sweden,105,193,"RW, LW",Left,,"$941,667"
+205. Ray Emery,-,Deceased (35),"Sep. 28, 1982",Canada,89,188,G,Left,,"$925,000"
+206. Barret Jackman,-,25,"Mar. 5, 1981",Canada,92,183,LD,Left,,"$912,000"
+207. Mikko Koivu,-,23,"Mar. 12, 1983",Finland,97,191,C,Left,,"$902,500"
+208. Ryan Whitney,-,23,"Feb. 19, 1983",United States,98,191,D,Left,,"$900,600"
+209. Shaone Morrisonn,-,23,"Dec. 23, 1982",Canada,95,193,LD,Left,,"$900,000"
+210. Stephen Weiss,-,23,"Apr. 3, 1983",Canada,86,180,C,Left,,"$900,000"
+211. Eric Fehr,-,21,"Sep. 7, 1985",Canada,95,193,"C, RW",Right,,"$894,933"
+212. Marc-Andre Bergeron,-,25,"Oct. 13, 1980",Canada,86,175,D,Left,,"$889,200"
+213. Cam Barker,-,20,"Apr. 4, 1986",Canada,101,191,LD,Left,,"$885,767"
+214. Lauri Tukonen,-,20,"Sep. 1, 1986",Finland,85,188,LW,Right,,"$885,767"
+215. Ladislav Smid,-,20,"Feb. 1, 1986",Czech Republic,95,193,LD,Left,,"$885,767"
+216. Alexander Radulov,-,20,"Jul. 5, 1986",Russia,93,185,RW,Left,,"$885,766"
+217. Kyle Wellwood,-,23,"May 16, 1983",Canada,84,180,C,Right,,"$875,000"
+218. Raffi Torres,-,24,"Oct. 8, 1981",Canada,94,183,LW,Left,,"$875,000"
+219. Jason Chimera,-,27,"May 2, 1979",Canada,98,191,"LW, RW",Left,,"$875,000"
+220. Matt Stajan,-,22,"Dec. 19, 1983",Canada,88,185,C,Left,,"$875,000"
+221. Ben Clymer,-,28,"Apr. 11, 1978",United States,91,183,D,Right,,"$866,667"
+222. Boris Valabik,-,20,"Feb. 14, 1986",Slovakia,116,201,LD,Left,,"$858,333"
+223. Leland Irving,-,18,"Apr. 11, 1988",Canada,80,183,G,Left,,"$850,000"
+224. Ryan Parent,-,19,"Mar. 17, 1987",Canada,90,191,D,Left,,"$850,000"
+225. Enver Lisin,-,20,"Apr. 22, 1986",Russia,91,188,RW,Left,,"$850,000"
+226. Guillaume Latendresse,-,19,"May 24, 1987",Canada,105,188,LW,Left,,"$850,000"
+227. Sidney Crosby,PIT,19,"Aug. 7, 1987",Canada,91,180,C,Left,,"$850,000"
+228. Andy Greene,-,23,"Oct. 30, 1982",United States,86,180,LD/RD,Left,,"$850,000"
+229. Steve Bernier,-,21,"Mar. 31, 1985",Canada,100,191,RW,Right,,"$850,000"
+230. Michael Grabner,-,18,"Oct. 5, 1987",Austria,85,185,"LW, RW",Left,,"$850,000"
+231. Jordan Staal,CAR,18,"Sep. 10, 1988",Canada,100,193,"C, LW",Left,,"$850,000"
+232. Jack Johnson,COL,19,"Jan. 13, 1987",United States,103,185,LD,Left,,"$850,000"
+233. Trevor Lewis,LAK,19,"Jan. 8, 1987",United States,92,185,"RW, C",Right,,"$850,000"
+234. Benoit Pouliot,-,20,"Sep. 29, 1986",Canada,91,191,LW,Left,,"$850,000"
+235. Christian Ehrhoff,-,24,"Jul. 6, 1982",Germany,93,188,LD,Left,,"$850,000"
+236. Jonathan Bernier,-,18,"Aug. 7, 1988",Canada,84,183,G,Left,,"$850,000"
+237. Phil Kessel,-,18,"Oct. 2, 1987",United States,92,183,RW,Right,,"$850,000"
+238. Dave Bolland,-,20,"Jun. 5, 1986",Canada,83,183,C,Right,,"$845,833"
+239. Rob Schremp,-,20,"Jul. 1, 1986",United States,91,180,C,Left,,"$841,667"
+240. Jay Pandolfo,-,31,"Dec. 27, 1974",United States,86,185,LW,Left,,"$836,000"
+241. Mike Green,-,20,"Oct. 12, 1985",Canada,95,185,RD,Right,,"$833,333"
+242. Brent Burns,CAR,21,"Mar. 9, 1985",Canada,104,196,RD,Right,,"$825,000"
+243. Rene Bourque,-,24,"Dec. 10, 1981",Canada,98,188,LW,Left,,"$825,000"
+244. Gilbert Brule,-,19,"Jan. 1, 1987",Canada,82,178,C,Right,,"$821,667"
+245. Anze Kopitar,LAK,19,"Aug. 24, 1987",Slovenia,102,191,C,Left,,"$821,667"
+246. Henrik Lundqvist,-,24,"Mar. 2, 1982",Sweden,83,185,G,Left,,"$817,000"
+247. Jeff Tambellini,-,22,"Apr. 13, 1984",Canada,87,180,LW,Left,,"$816,033"
+248. Dennis Seidenberg,-,25,"Jul. 18, 1981",Germany,90,183,RD,Left,,"$800,000"
+249. Pascal Dupuis,-,27,"Apr. 7, 1979",Canada,93,185,"RW, LW",Left,,"$798,000"
+250. Matt Smaby,-,21,"Oct. 14, 1984",United States,104,198,D,Left,,"$791,667"
+251. Marcel Goc,-,23,"Aug. 24, 1983",Germany,89,185,C,Left,,"$787,500"
+252. Steve Ott,-,24,"Aug. 19, 1982",Canada,88,183,"C, LW",Left,,"$787,500"
+253. Trevor Daley,-,22,"Oct. 9, 1983",Canada,90,180,RD,Left,,"$787,500"
+254. Ryan Suter,DAL,21,"Jan. 21, 1985",United States,93,188,LD,Left,,"$785,333"
+255. Dion Phaneuf,-,21,"Apr. 10, 1985",Canada,101,193,LD,Left,,"$785,333"
+256. Tom Gilbert,-,23,"Jan. 10, 1983",United States,92,188,RD,Right,,"$782,500"
+257. Joe Pavelski,DAL,22,"Jul. 11, 1984",United States,88,180,RW,Right,,"$780,000"
+258. Patrick Sharp,-,24,"Dec. 27, 1981",Canada,91,185,"LW, C",Right,,"$775,000"
+259. Alexander Steen,-,22,"Mar. 1, 1984",Canada,96,183,"LW, RW, C",Left,,"$770,200"
+260. Martins Karsums,-,20,"Feb. 26, 1986",Latvia,90,178,RW,Right,,"$766,667"
+261. David Krejci,-,20,"Apr. 28, 1986",Czech Republic,85,183,C,Right,,"$766,667"
+262. David Backes,-,22,"May 1, 1984",United States,98,191,"C, RW",Right,,"$765,000"
+263. Tony Salmelainen,-,24,"Oct. 8, 1981",Finland,83,175,"LW, RW",Right,,"$750,000"
+264. Niklas Bäckström,-,28,"Feb. 13, 1978",Finland,88,188,G,Left,,"$750,000"
+265. Jeff Schultz,-,20,"Feb. 25, 1986",Canada,102,198,LD,Left,,"$750,000"
+266. Andrew Ference,-,27,"Mar. 17, 1979",Canada,85,180,RD,Left,,"$750,000"
+267. Braydon Coburn,-,21,"Feb. 27, 1985",Canada,101,196,LD,Left,,"$746,100"
+268. Ryan Getzlaf,-,21,"May 10, 1985",Canada,103,191,C,Right,,"$739,733"
+269. Ron Hainsey,-,25,"Mar. 24, 1981",United States,91,191,RD,Left,,"$737,500"
+270. Marc-Édouard Vlasic,SJS,19,"Mar. 30, 1987",Canada,93,185,LD/RD,Left,,"$735,000"
+271. Jimmy Howard,-,22,"Mar. 26, 1984",United States,99,185,G,Left,,"$733,333"
+272. Valtteri Filppula,-,22,"Mar. 20, 1984",Finland,86,183,"C, LW",Left,,"$733,333"
+273. Mark Fistric,-,20,"Jun. 1, 1986",Canada,102,188,D,Left,,"$725,000"
+274. Bryan Bickell,-,20,"Mar. 9, 1986",Canada,101,193,LW,Left,,"$716,667"
+275. Paul Gaustad,-,24,"Feb. 3, 1982",United States,103,196,"C, LW",Left,,"$712,500"
+276. Mike Blunden,-,19,"Dec. 15, 1986",Canada,98,193,RW,Right,,"$701,667"
+277. Matt Bradley,-,28,"Jun. 13, 1978",Canada,91,191,"RW, LW",Right,,"$700,000"
+278. Dominic Moore,-,26,"Aug. 3, 1980",Canada,87,183,"C, LW",Left,,"$700,000"
+279. Peter Budaj,-,24,"Sep. 18, 1982",Slovakia,89,185,G,Left,,"$700,000"
+280. Blake Comeau,-,20,"Feb. 18, 1986",Canada,91,185,"RW, LW",Right,,"$691,667"
+281. Mikhail Grabovski,-,22,"Jan. 31, 1984",Germany,84,180,"C, RW",Left,,"$687,500"
+282. Cam Ward,-,22,"Feb. 29, 1984",Canada,88,185,G,Left,,"$684,000"
+283. Carl Söderberg,-,20,"Oct. 12, 1985",Sweden,95,191,"C, LW",Left,,"$680,000"
+284. Jay McClement,-,23,"Mar. 2, 1983",Canada,93,185,C,Left,,"$675,000"
+285. Troy Brouwer,-,21,"Aug. 17, 1985",Canada,97,191,"LW, RW",Right,,"$675,000"
+286. Corey Crawford,-,21,"Dec. 31, 1984",Canada,98,188,G,Left,,"$675,000"
+287. Riley Holzapfel,-,18,"Aug. 18, 1988",Canada,86,183,C,Left,,"$668,333"
+288. Drew Miller,-,22,"Feb. 17, 1984",United States,82,188,"LW, RW",Left,,"$665,000"
+289. Daniel Cleary,-,27,"Dec. 18, 1978",Canada,93,185,RW,Left,,"$662,500"
+290. Andrew Alberts,-,25,"Jun. 30, 1981",United States,100,193,D,Left,,"$661,300"
+291. Karri Ramo,-,20,"Jul. 1, 1986",Finland,93,188,G,Left,,"$658,333"
+292. Curtis Glencross,-,23,"Dec. 28, 1982",Canada,89,185,LW,Left,,"$655,500"
+293. Brett Lebda,-,24,"Jan. 15, 1982",United States,88,178,LW,Left,,"$650,000"
+294. Boyd Gordon,-,22,"Oct. 19, 1983",Canada,91,183,C,Right,,"$650,000"
+295. Joakim Lindstrom,-,22,"Dec. 5, 1983",Sweden,92,183,C,Left,,"$650,000"
+296. Andrej Sekera,-,20,"Jun. 8, 1986",Slovakia,88,183,LD/RD,Left,,"$650,000"
+297. Paul Stastny,-,20,"Dec. 27, 1985",Canada,88,183,"C, LW",Left,,"$643,333"
+298. Loui Eriksson,-,21,"Jul. 17, 1985",Sweden,81,188,"LW, RW",Left,,"$641,667"
+299. Kris Letang,PIT,19,"Apr. 24, 1987",Canada,91,183,RD,Right,,"$638,333"
+300. Colin Fraser,-,21,"Jan. 28, 1985",Canada,86,185,C,Left,,"$633,333"
+301. Brandon Dubinsky,-,20,"Apr. 29, 1986",United States,94,188,"C, LW",Left,,"$633,333"
+302. Milan Michalek,-,21,"Dec. 7, 1984",Czech Republic,102,188,"LW, RW",Left,,"$628,267"
+303. Derek Roy,-,23,"May 4, 1983",Canada,85,175,C,Left,,"$627,000"
+304. Dustin Boyd,-,20,"Jul. 16, 1986",Canada,87,183,C,Left,,"$625,000"
+305. Chris Bourque,-,20,"Jan. 29, 1986",United States,79,173,LW,Left,,"$625,000"
+306. Ben Eager,-,22,"Jan. 22, 1984",Canada,103,188,LW,Left,,"$624,000"
+307. Justin Pogge,-,20,"Apr. 22, 1986",Canada,89,191,G,Left,,"$616,667"
+308. Corey Perry,CHI,21,"May 16, 1985",Canada,93,191,RW,Right,,"$614,333"
+309. Shea Weber,ARI,21,"Aug. 14, 1985",Canada,104,193,RD,Right,,"$610,333"
+310. Keith Yandle,-,20,"Sep. 9, 1986",United States,87,185,LD,Left,,"$610,000"
+311. Dane Byers,-,20,"Feb. 21, 1986",Canada,93,191,LW,Left,,"$608,333"
+312. Dustin Byfuglien,-,21,"Mar. 27, 1985",United States,118,196,RD,Right,,"$608,333"
+313. Clarke MacArthur,-,21,"Apr. 6, 1985",Canada,88,183,LW,Left,,"$608,333"
+314. Brooks Laich,-,23,"Jun. 23, 1983",Canada,95,188,"C, LW",Left,,"$606,100"
+315. Tomas Fleischmann,-,22,"May 16, 1984",Czech Republic,87,185,LW,Left,,"$602,000"
+316. Keith Ballard,-,23,"Nov. 26, 1982",United States,93,180,D,Left,,"$600,400"
+317. Jordin Tootoo,-,23,"Feb. 2, 1983",Canada,88,175,RW,Right,,"$600,000"
+318. Mark Streit,-,28,"Dec. 11, 1977",Switzerland,87,180,RD,Left,,"$600,000"
+319. Craig Adams,-,29,"Mar. 26, 1977",Brunei Darussalam,91,183,RW,Right,,"$600,000"
+320. David Booth,-,21,"Nov. 24, 1984",United States,96,183,LW,Left,,"$600,000"
+321. Nicklas Grossmann,-,21,"Jan. 22, 1985",Sweden,104,193,LD,Left,,"$591,667"
+322. B.J. Crombeen,-,21,"Jul. 10, 1985",United States,95,188,RW,Right,,"$591,667"
+323. Bobby Robins,-,24,"Oct. 17, 1981",United States,100,185,RW,Right,,"$585,000"
+324. Nate Guenin,-,23,"Dec. 10, 1982",United States,95,185,RD,Right,,"$585,000"
+325. Maxim Lapierre,-,21,"Mar. 29, 1985",Canada,98,188,C,Right,,"$583,333"
+326. Adam Burish,-,23,"Jan. 6, 1983",United States,86,185,RW,Right,,"$575,000"
+327. Ryan Callahan,-,21,"Mar. 21, 1985",United States,85,178,RW,Right,,"$575,000"
+328. James Wisniewski,-,22,"Feb. 21, 1984",United States,94,183,RD,Right,,"$567,000"
+329. Ryan Carter,-,23,"Aug. 3, 1983",United States,93,185,"C, LW",Left,,"$560,000"
+330. Brad Richardson,-,21,"Feb. 4, 1985",Canada,86,183,C,Left,,"$558,333"
+331. Douglas Murray,-,26,"Mar. 12, 1980",Sweden,111,191,D,Left,,"$550,000"
+332. Alexander Edler,-,20,"Apr. 21, 1986",Sweden,96,191,LD,Left,,"$550,000"
+333. Stephane Robidas,-,29,"Mar. 3, 1977",Canada,87,180,RD,Right,,"$550,000"
+334. Roman Polák,-,20,"Apr. 28, 1986",Czech Republic,109,188,RD,Right,,"$550,000"
+335. Stephane Veilleux,-,24,"Nov. 16, 1981",Canada,91,185,LW,Left,,"$546,667"
+336. Ryane Clowe,-,24,"Sep. 30, 1982",Canada,107,191,"LW, RW",Left,,"$541,667"
+337. Tyler Kennedy,-,20,"Jul. 15, 1986",Canada,84,180,C,Right,,"$541,667"
+338. Marc Methot,-,21,"Jun. 21, 1985",Canada,104,193,LD,Left,,"$541,667"
+339. David Clarkson,-,22,"Mar. 31, 1984",Canada,91,183,RW,Right,,"$538,333"
+340. Dan Girardi,-,22,"Apr. 29, 1984",Canada,96,185,RD,Right,,"$537,500"
+341. Frans Nielsen,-,22,"Apr. 24, 1984",Denmark,84,185,"C, LW",Left,,"$535,000"
+342. Zack Stortini,-,21,"Sep. 11, 1985",Canada,104,193,RW,Right,,"$534,333"
+343. Kevin Bieksa,-,25,"Jun. 16, 1981",Canada,91,185,RD,Right,,"$525,000"
+344. Brian McGrattan,-,25,"Sep. 2, 1981",Canada,104,193,RW,Right,,"$525,000"
+345. Jiri Hudler,-,22,"Jan. 4, 1984",Czech Republic,86,178,"LW, RW",Left,,"$525,000"
+346. Rob Scuderi,-,27,"Dec. 30, 1978",United States,96,185,LD,Left,,"$525,000"
+347. Daniel Winnik,-,21,"Mar. 6, 1985",Canada,93,188,C,Left,,"$523,333"
+348. Kyle Quincey,-,21,"Aug. 12, 1985",Canada,98,188,RD,Left,,"$520,000"
+349. Lee Stempniak,-,23,"Feb. 4, 1983",United States,88,180,RW,Right,,"$517,500"
+350. Paul Bissonnette,-,21,"Mar. 11, 1985",Canada,98,188,LW,Left,,"$516,667"
+351. Daniel Carcillo,-,21,"Jan. 28, 1985",Canada,91,183,LW,Left,,"$516,667"
+352. Ole-Kristian Tollefsen,-,22,"Mar. 29, 1984",Norway,95,188,D,Left,,"$511,800"
+353. Danny Taylor,-,20,"Apr. 28, 1986",United Kingdom,90,183,G,Left,,"$508,333"
+354. Brett Carson,-,20,"Nov. 29, 1985",Canada,95,193,D,Right,,"$508,333"
+355. Jannik Hansen,-,20,"Mar. 15, 1986",Denmark,88,185,RW,Right,,"$508,333"
+356. Johnny Oduya,-,25,"Oct. 1, 1981",Sweden,88,183,LD,Left,,"$505,000"
+357. Blair Jones,-,20,"Sep. 27, 1986",Canada,95,191,C,Right,,"$501,667"
+358. Duvie Westcott,-,28,"Oct. 30, 1977",Canada,87,180,RD,Right,,"$500,000"
+359. Milan Jurcina,-,23,"Jun. 7, 1983",Slovakia,114,193,D,Right,,"$500,000"
+360. Matt D'Agostini,-,19,"Oct. 23, 1986",Canada,90,185,RW,Right,,"$500,000"
+361. Cal O'Reilly,-,20,"Sep. 30, 1986",Canada,87,183,C,Left,,"$500,000"
+362. Joey MacDonald,-,26,"Feb. 7, 1980",Canada,89,183,G,Left,,"$500,000"
+363. Eric Boulton,-,30,"Aug. 17, 1976",Canada,103,183,LW,Left,,"$500,000"
+364. Gregory Campbell,-,22,"Dec. 17, 1983",Canada,89,183,"C, LW",Left,,"$500,000"
+365. Mike Brown,-,21,"Jun. 24, 1985",United States,93,180,RW,Right,,"$500,000"
+366. Francois Beauchemin,-,26,"Jun. 4, 1980",Canada,94,185,LD,Left,,"$500,000"
+367. Jonathan Ericsson,-,22,"Mar. 2, 1984",Sweden,99,193,LD,Left,,"$495,000"
+368. Pierre-Alexandre Parenteau,-,23,"Mar. 24, 1983",Canada,91,183,RW,Right,,"$495,000"
+369. Colton Orr,-,24,"Mar. 3, 1982",Canada,101,191,RW,Right,,"$495,000"
+370. Jaroslav Halák,CAR,21,"May 13, 1985",Slovakia,84,180,G,Left,,"$491,667"
+371. Patrick Kaleta,-,20,"Jun. 8, 1986",United States,90,185,RW,Right,,"$491,667"
+372. Kyle Cumiskey,-,19,"Dec. 2, 1986",Canada,82,180,LD,Left,,"$491,667"
+373. Kris Versteeg,-,20,"May 13, 1986",Canada,80,180,"LW, RW",Right,,"$491,667"
+374. Alexandre Burrows,-,25,"Apr. 11, 1981",Canada,89,185,"RW, LW",Left,,"$483,333"
+375. Nate Thompson,-,21,"Oct. 5, 1984",United States,93,185,C,Left,,"$483,333"
+376. Dustin Penner,-,24,"Sep. 28, 1982",Canada,112,193,RW,Left,,"$478,500"
+377. Matt Moulson,-,22,"Nov. 1, 1983",Canada,91,185,LW,Left,,"$477,500"
+378. Cody McLeod,-,22,"Jun. 26, 1984",Canada,93,188,"LW, RW",Left,,"$477,500"
+379. Bruno Gervais,-,21,"Oct. 3, 1984",Canada,85,183,D,Right,,"$477,333"
+380. Brett Festerling,-,20,"Mar. 3, 1986",Canada,94,185,D,Left,,"$476,667"
+381. Dennis Wideman,-,23,"Mar. 20, 1983",Canada,92,183,RD,Right,,"$472,800"
+382. Pierre-Luc Letourneau-Leblond,-,21,"Jun. 4, 1985",Canada,95,188,RW,Left,,"$471,667"
+383. Chris Conner,-,22,"Dec. 23, 1983",United States,79,173,RW,Left,,"$470,000"
+384. Rich Peverley,-,24,"Jul. 8, 1982",Canada,91,183,C,Right,,"$470,000"
+385. Zach Parise,-,22,"Jul. 28, 1984",United States,88,180,LW,Left,,"$468,667"
+386. Brad Staubitz,-,22,"Jul. 28, 1984",Canada,94,185,RW,Right,,"$464,167"
+387. Andrew Peters,-,26,"May 5, 1980",Canada,112,193,LW,Left,,"$460,000"
+388. Jeff Glass,-,20,"Nov. 19, 1985",Canada,96,188,G,Left,,"$458,333"
+389. Pekka Rinne,-,23,"Nov. 3, 1982",Finland,98,196,G,Left,,"$454,700"
+390. Todd Fedoruk,-,27,"Feb. 13, 1979",Canada,109,188,LW,Left,,"$450,000"
+391. Jerred Smithson,-,27,"Feb. 4, 1979",Canada,95,191,C,Right,,"$450,000"
+392. Scott Clemmensen,-,29,"Jul. 23, 1977",United States,91,188,G,Left,,"$450,000"
+393. Cam Janssen,-,22,"Apr. 15, 1984",United States,95,180,RW,Right,,"$450,000"
+394. Matt Ellis,-,25,"Aug. 31, 1981",Canada,94,183,LW,Left,,"$450,000"
+395. Tomas Plekanec,-,23,"Oct. 31, 1982",Czech Republic,86,180,C,Left,,"$450,000"
+396. Greg Zanon,-,26,"Jun. 5, 1980",Canada,93,180,D,Left,,"$450,000"
+397. Tomas Kopecky,-,24,"Feb. 5, 1982",Slovakia,95,191,RW,Left,,"$450,000"
+398. Michael Leighton,-,25,"May 19, 1981",Canada,84,191,G,Left,,"$450,000"
+399. Aaron Johnson,-,23,"Apr. 30, 1983",Canada,94,185,D,Left,,"$450,000"
+400. Vernon Fiddler,-,26,"May 9, 1980",Canada,93,180,"C, LW",Left,,"$450,000"
+401. Chris Thorburn,-,23,"Jun. 3, 1983",Canada,107,191,"RW, LW",Right,,"$450,000"
+402. Kevin Klein,-,21,"Dec. 13, 1984",Canada,93,185,RD,Right,,"$441,333"
+403. Maxime Talbot,-,22,"Feb. 11, 1984",Canada,86,180,"C, LW",Left,,"$357,000"
+404. Pierre-Marc Bouchard,-,22,"Apr. 27, 1984",Canada,80,178,RW,Left,,$0
+405. Chad Larose,-,24,"Mar. 27, 1982",United States,82,178,"RW, LW",Right,,$0
+406. Tony Amonte,-,36,"Aug. 2, 1970",United States,91,183,RW,Left,,$0
+407. Chris Chelios,-,44,"Jan. 25, 1962",United States,87,183,D,Right,,$0
+408. Paul Kariya,-,31,"Oct. 16, 1974",Canada,84,178,LW,Left,,$0
+409. Alexander Mogilny,-,37,"Feb. 18, 1969",Russia,95,183,C,Left,,$0
+410. Ray Whitney,-,34,"May 8, 1972",Canada,82,178,LW,Right,,$0
+411. Joe Nieuwendyk,-,40,"Sep. 10, 1966",Canada,92,188,C,Left,,$0
+412. Mathieu Schneider,-,37,"Jun. 12, 1969",United States,86,178,D,Left,,$0
+413. Aaron Ward,-,33,"Jan. 17, 1973",Canada,95,188,D,Right,,$0
+414. Matt Jones,-,23,"Aug. 8, 1983",United States,98,183,D,Left,,$0
+415. Mikael Tellqvist,-,27,"Sep. 19, 1979",Sweden,86,180,G,Left,,$0
+416. Brad Lukowich,-,30,"Aug. 12, 1976",Canada,91,185,D,Left,,$0
+417. Darcy Hordichuk,-,26,"Aug. 10, 1980",Canada,98,185,LW,Left,,$0
+418. Tom Preissing,-,27,"Dec. 3, 1978",United States,93,183,D,Right,,$0
+419. Martin Skoula,-,26,"Oct. 28, 1979",Czech Republic,101,191,D,Left,,$0
+420. Brian Sutherby,-,24,"Mar. 1, 1982",Canada,95,188,C,Left,,$0
+421. Stephane Yelle,-,32,"May 9, 1974",Canada,88,185,C,Left,,$0
+422. Alex Auld,-,25,"Jan. 7, 1981",Canada,97,193,G,Left,,$0
+423. Doug Janik,-,26,"Mar. 26, 1980",United States,96,188,D,Left,,$0
+424. Scott Walker,-,33,"Jul. 19, 1973",Canada,89,178,RW,Right,,$0
+425. Andy Sutton,-,31,"Mar. 10, 1975",Canada,111,198,D,Left,,$0
+426. Sami Kapanen,-,33,"Jun. 14, 1973",Finland,84,178,RW,Left,,$0
+427. Robert Nilsson,-,21,"Jan. 10, 1985",Canada,87,178,LW,Left,,$0
+428. Dan Fritsche,-,21,"Jul. 13, 1985",United States,90,188,C,Right,,$0
+429. Rostislav Olesz,-,20,"Oct. 10, 1985",Czech Republic,98,188,LW,Left,,$0
+430. Mike Comrie,-,26,"Sep. 11, 1980",Canada,84,178,C,Left,,$0
+431. Cristobal Huet,-,31,"Sep. 3, 1975",France,97,185,G,Right,,$0
+432. Nikolai Antropov,-,26,"Feb. 18, 1980",Kazakhstan,109,198,RW,Left,,$0
+433. Ryan Malone,-,26,"Dec. 1, 1979",United States,99,193,LW,Left,,$0
+434. Gary Roberts,-,40,"May 23, 1966",Canada,98,188,LW,Left,,$0
+435. Glen Metropolit,-,32,"Jun. 25, 1974",Canada,90,178,C,Right,,$0
+436. Pascal Leclaire,-,23,"Nov. 7, 1982",Canada,84,188,G,Left,,$0
+437. Lawrence Nycholat,-,27,"May 7, 1979",Canada,91,183,LD,Left,,$0
+438. Vaclav Prospal,-,31,"Feb. 17, 1975",Czech Republic,90,188,LW,Left,,$0
+439. Steve Eminger,-,22,"Oct. 31, 1983",Canada,94,188,D,Right,,$0
+440. Vesa Toskala,-,29,"May 20, 1977",Finland,85,178,G,Left,,$0
+441. Mark Bell,-,26,"Aug. 5, 1980",Canada,100,193,"C, LW",Left,,$0
+442. Johan Holmqvist,-,28,"May 24, 1978",Sweden,93,188,G,Left,,$0
+443. Brian Rolston,-,33,"Feb. 21, 1973",United States,97,188,LW,Left,,$0
+444. Josef Melichar,-,27,"Jan. 20, 1979",Czech Republic,97,191,LD,Left,,$0
+445. Olaf Kolzig,-,36,"Apr. 6, 1970",South Africa,102,191,G,Left,,$0
+446. Jamie Heward,-,35,"Mar. 30, 1971",Canada,98,188,RD,Right,,$0
+447. Marcel Hossa,-,24,"Oct. 12, 1981",Slovakia,99,188,"LW, RW",Left,,$0
+448. Fredrik Sjostrom,-,23,"May 6, 1983",Sweden,99,185,LW,Left,,$0
+449. Josh Gratton,-,24,"Sep. 9, 1982",Canada,98,188,LW,Left,,$0
+450. Ryan Hollweg,-,23,"Apr. 23, 1983",United States,98,180,LW,Left,,$0
+451. Mattias Norstrom,-,34,"Jan. 2, 1972",Sweden,101,185,LD,Left,,$0
+452. Jaroslav Modry,-,35,"Feb. 27, 1971",Czech Republic,99,185,LD,Left,,$0
+453. Chris Gratton,-,31,"Jul. 5, 1975",Canada,104,193,C,Left,,$0
+454. Yanic Perreault,-,35,"Apr. 4, 1971",Canada,84,180,C,Left,,$0
+455. Brendan Bell,-,23,"Mar. 31, 1983",Canada,93,188,D,Left,,$0
+456. Bryan Smolinski,-,34,"Dec. 27, 1971",United States,92,185,C,Right,,$0
+457. Jamie Lundmark,-,25,"Jan. 16, 1981",Canada,87,183,"C, RW",Right,,$0
+458. Oleg Saprykin,-,25,"Feb. 12, 1981",Russia,94,188,"RW, LW",Left,,$0
+459. Chad Kilger,-,29,"Nov. 27, 1976",Canada,102,193,LW,Left,,$0
+460. Jamal Mayers,-,31,"Oct. 24, 1974",Canada,101,185,RW,Right,,$0
+461. Sean Avery,-,26,"Apr. 10, 1980",Canada,88,178,C,Left,,$0
+462. Jason Ward,-,27,"Jan. 16, 1979",Canada,92,188,RW,Right,,$0
+463. Georges Laraque,-,29,"Dec. 7, 1976",Canada,127,191,RW,Right,,$0
+464. Chris Mason,-,30,"Apr. 20, 1976",Canada,92,183,G,Left,,$0
+465. Shane Hnidy,-,30,"Nov. 8, 1975",Canada,92,188,RD,Right,,$0
+466. Darryl Sydor,-,34,"May 13, 1972",Canada,90,183,LD,Left,,$0
+467. Wade Belak,-,Deceased (35),"Jul. 3, 1976",Canada,101,196,RW,Right,,$0
+468. Anson Carter,-,32,"Jun. 6, 1974",Canada,95,185,RW,Right,,$0
+469. Martin Lapointe,-,33,"Sep. 12, 1973",Canada,98,180,RW,Right,,$0
+470. Scott Parker,-,28,"Jan. 29, 1978",United States,109,196,RW,Right,,$0
+471. Mike York,-,28,"Jan. 3, 1978",United States,83,178,C,Right,,$0
+472. Randy Robitaille,-,30,"Oct. 12, 1975",Canada,85,178,C,Left,,$0
+473. Chris Simon,-,34,"Jan. 30, 1972",Canada,114,191,LW,Left,,$0
+474. Janne Niinimaa,-,31,"May 22, 1975",Finland,100,185,D,Left,,$0
+475. Paul Ranger,-,22,"Sep. 12, 1984",Canada,95,193,LD,Left,,$0
+476. Jean-Sebastien Aubin,-,29,"Jul. 19, 1977",Canada,82,180,G,Right,,$0
+477. Jan Hlavac,-,30,"Sep. 20, 1976",Czech Republic,90,183,LW,Left,,$0
+478. Anton Babchuk,-,22,"May 6, 1984",Ukraine,91,196,RD,Right,,$0
+479. Petr Prucha,-,24,"Sep. 14, 1982",Czech Republic,78,178,"RW, LW",Right,,$0
+480. Petr Cajanek,-,31,"Aug. 18, 1975",Czech Republic,88,180,"C, LW",Left,,$0
+481. Derek Boogaard,-,Deceased (28),"Jun. 23, 1982",Canada,120,201,LW,Left,,$0
+482. Jeff Woywitka,-,23,"Sep. 1, 1983",Canada,101,191,LD,Left,,$0
+483. Christoph Schubert,-,24,"Feb. 5, 1982",Germany,103,191,LD,Left,,$0
+484. Lukas Krajicek,-,23,"Mar. 11, 1983",Czech Republic,94,188,D,Left,,$0
+485. Marek Svatos,-,Deceased (34),"Jun. 17, 1982",Slovakia,82,178,RW,Right,,$0
+486. Mike Komisarek,-,24,"Jan. 19, 1982",United States,107,193,RD,Right,,$0
+487. Andy Hilbert,-,25,"Feb. 6, 1981",United States,88,180,C,Left,,$0
+488. Mike Rupp,-,26,"Jan. 13, 1980",United States,105,196,C,Left,,$0
+489. Antti Miettinen,-,26,"Jul. 3, 1980",Finland,84,183,RW,Right,,$0
+490. Kurt Sauer,-,25,"Jan. 16, 1981",United States,100,193,D,Left,,$0
+491. David Hale,-,25,"Jun. 18, 1981",United States,105,188,D,Left,,$0
+492. Alexei Semenov,-,25,"Apr. 10, 1981",Russia,111,198,LD,Left,,$0
+493. Branislav Mezei,-,25,"Oct. 8, 1980",Slovakia,104,191,LD,Left,,$0
+494. Juraj Kolnik,-,25,"Nov. 13, 1980",Slovakia,90,180,RW,Right,,$0
+495. Steve McCarthy,-,25,"Feb. 3, 1981",Canada,95,185,D,Left,,$0
+496. Branko Radivojevic,-,25,"Nov. 24, 1980",Slovakia,93,188,C,Right,,$0
+497. Garnet Exelby,-,25,"Aug. 16, 1981",Canada,97,185,D,Left,,$0
+498. David Tanabe,-,26,"Jul. 19, 1980",United States,96,185,D,Right,,$0
+499. Patrik Stefan,-,25,"Nov. 16, 1980",Czech Republic,87,188,C,Left,,$0
+500. Radek Martinek,-,30,"Aug. 31, 1976",Czech Republic,93,183,RD,Right,,$0
+501. Tom Kostopoulos,-,27,"Jan. 24, 1979",Canada,89,183,"RW, LW",Right,,$0
+502. Niklas Hagman,-,26,"Dec. 5, 1979",Finland,93,183,LW,Left,,$0
+503. Donald Brashear,-,34,"Jan. 7, 1972",United States,108,191,LW,Left,,$0
+504. Curtis Joseph,-,39,"Apr. 29, 1967",Canada,88,180,G,Left,,$0
+505. Jason Blake,-,33,"Sep. 2, 1973",United States,86,178,LW,Left,,$0
+506. Brian Rafalski,-,33,"Sep. 28, 1973",United States,87,178,D,Right,,$0
+507. Jon Klemm,-,36,"Jan. 8, 1970",Canada,92,188,RD,Right,,$0
+508. Bobby Holik,-,35,"Jan. 1, 1971",Czech Republic,105,193,C,Right,,$0
+509. Pierre Turgeon,-,37,"Aug. 28, 1969",Canada,90,185,C,Left,,$0
+510. Jeremy Roenick,-,36,"Jan. 17, 1970",United States,93,185,C,Right,,$0
+511. Chris Osgood,-,33,"Nov. 26, 1972",Canada,81,178,G,Left,,$0
+512. Brendan Shanahan,-,37,"Jan. 23, 1969",Canada,100,191,LW,Right,,$0
+513. Ed Belfour,-,41,"Apr. 21, 1965",Canada,97,183,G,Left,,$0
+514. Dominik Hašek,-,41,"Jan. 29, 1965",Czech Republic,75,183,G,Left,,$0
+515. Brent Sopel,-,29,"Jan. 7, 1977",Canada,93,188,D,Right,,$0
+516. Geoff Sanderson,-,34,"Feb. 1, 1972",Canada,86,183,LW,Left,,$0
+517. Doug Weight,-,35,"Jan. 21, 1971",United States,87,180,C,Left,,$0
+518. Peter Bondra,-,38,"Feb. 7, 1968",Ukraine,92,183,"LW, RW",Left,,$0
+519. Keith Tkachuk,-,34,"Mar. 28, 1972",United States,107,191,LW,Left,,$0
+520. Wayne Primeau,-,30,"Jun. 4, 1976",Canada,104,191,C,Left,,$0
+521. Michel Ouellet,-,24,"Mar. 5, 1982",Canada,95,185,RW,Right,,$0
+522. Paul Mara,-,27,"Sep. 7, 1979",United States,95,193,D,Left,,$0
+523. Ian White,-,22,"Jun. 4, 1984",Canada,87,178,D,Right,,$0
